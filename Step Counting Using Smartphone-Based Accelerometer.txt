@@ -1,0 +1,7 @@
+Step Counting Using Smartphone-Based Accelerometer
+http://www.enggjournals.com/ijcse/doc/IJCSE12-04-05-266.pdf
+2012
+
+关键词： accelerometer; step detection; step counting
+
+计步器包括两件事：　运动起始检测， 每步检测
